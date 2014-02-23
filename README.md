@@ -8,3 +8,5 @@ To get started, create an HTML file that includes the JavaScript files in the sr
 You will also need the d3.js library, which is available here: https://github.com/mbostock/d3
 
 Examples and documentation will be available soon!
+
+For more information see www.d3dash.com
