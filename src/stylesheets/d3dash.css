@@ -1,0 +1,26 @@
+.d3dash_clickable
+{
+  cursor: pointer;
+}
+
+
+
+svg text
+{
+  font-family: 'Helvetica Neue', helvetica, sans-serif; 
+}
+
+.axis path,
+.axis line {
+    fill: none;
+    stroke: #AAA;
+    shape-rendering: crispEdges;
+}
+
+.axis text {
+    font-family: sans-serif;
+    font-size: 11px;
+    fill: #888;
+}
+
+
